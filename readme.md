@@ -1,3 +1,5 @@
+This project focuses on task 3: streaming services.
+
 # Task 1 - 2
 task 1 and 2 is pure theory and visualized in the powerpoint
 
